@@ -1,0 +1,8 @@
+IMAGE                                                                                                 ID             DISK USAGE   CONTENT SIZE   EXTRA
+docker.elastic.co/elasticsearch/elasticsearch:8.12.0                                                  ec72548cf833        2.1GB          728MB        
+docker.elastic.co/kibana/kibana:8.12.0                                                                596700740fdb       1.75GB          424MB        
+gcr.io/k8s-minikube/kicbase:v0.0.51                                                                   146cd636030e       1.89GB          532MB        
+gcr.io/k8s-minikube/kicbase@sha256:4a1c825b61479e6c898851ea66f13c620aaeab6002746e95067fc2c4b38a0b24   4a1c825b6147       1.89GB          532MB   U    
+hello-world:latest                                                                                    5e2309035332       25.9kB         9.49kB   U    
+python:3.14-slim                                                                                      930e1abba7c4        181MB         45.8MB        
+securedeploy:v1                                                                                       4d058e8a7be8        208MB           50MB   U    
